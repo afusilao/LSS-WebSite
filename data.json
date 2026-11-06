@@ -1,0 +1,418 @@
+{
+  "v": 2,
+  "slides": [
+    {
+      "id": "s1",
+      "lines": [
+        "Taco francés.",
+        "Queso fundido.",
+        "Tamaño XL."
+      ],
+      "text": "Tacos enormes, queso fundido a chorros y precios que no duelen. Los tacos más virales del Vallès, hechos al momento.",
+      "b1": "Ver la carta",
+      "l1": "#carta",
+      "b2": "Hacer mi pedido",
+      "l2": "#pedido",
+      "bg1": "+½ kg",
+      "bg2": "por 11 €",
+      "art": "par",
+      "img": null
+    },
+    {
+      "id": "s2",
+      "lines": [
+        "Al horno.",
+        "Gratinado.",
+        "Con queso."
+      ],
+      "text": "Menú taco al horno con patatas y bebida desde 9 €: pollo, mixto, carne picada, nuggets o fingers.",
+      "b1": "Ver menús",
+      "l1": "#carta",
+      "b2": "",
+      "l2": "",
+      "bg1": "9 €",
+      "bg2": "menú al horno",
+      "art": "horno",
+      "img": null
+    },
+    {
+      "id": "s3",
+      "lines": [
+        "Reto XXL.",
+        "+2 kg de taco.",
+        "En 15 minutos."
+      ],
+      "text": "¿Te atreves? Se hace por encargo (los miércoles, según publicaron en redes). Pregunta por Instagram.",
+      "b1": "Apuntarme",
+      "l1": "https://www.instagram.com/lasantasnack/",
+      "b2": "",
+      "l2": "",
+      "bg1": "2 kg",
+      "bg2": "en 15 min",
+      "art": "par",
+      "img": null
+    }
+  ],
+  "reels": [
+    {
+      "id": "r1",
+      "plat": "tiktok",
+      "title": "Reto taco francés con Víctor Prous",
+      "by": "@victorprous · colaboración",
+      "tag": "Colaboración",
+      "url": "https://www.tiktok.com/@victorprous/video/7484939895367044375"
+    },
+    {
+      "id": "r2",
+      "plat": "tiktok",
+      "title": "Taco francés de +½ kg por 11 €",
+      "by": "@lasantasnack12",
+      "tag": "Nuestra cuenta",
+      "url": "https://www.tiktok.com/@lasantasnack12"
+    },
+    {
+      "id": "r3",
+      "plat": "tiktok",
+      "title": "¿+2 kg de taco en 15 minutos?",
+      "by": "@lasantasnack12",
+      "tag": "Reto",
+      "url": "https://www.tiktok.com/@lasantasnack12"
+    },
+    {
+      "id": "r4",
+      "plat": "tiktok",
+      "title": "El mejor taco del Vallès, en ASMR",
+      "by": "@lasantasnack12",
+      "tag": "ASMR",
+      "url": "https://www.tiktok.com/@lasantasnack12"
+    },
+    {
+      "id": "r5",
+      "plat": "instagram",
+      "title": "Los reels de la casa",
+      "by": "@lasantasnack",
+      "tag": "Nuestra cuenta",
+      "url": "https://www.instagram.com/lasantasnack/"
+    }
+  ],
+  "settings": {
+    "slideSec": 6,
+    "phone": "34631881294",
+    "hours": "Horario habitual de tarde-noche (consúltalo en redes).",
+    "announce": "",
+    "ubereats": "https://www.ubereats.com/es/store/la-santa-snack-santa-perpetua-de-moguda/Vzor8pFbVgSRPYknUH_jJw",
+    "open": true
+  },
+  "cats": [
+    {
+      "id": "menutapas",
+      "name": "Menú y tapas",
+      "sub": "Tacos parisinos bañados en queso y arroz crispy XL"
+    },
+    {
+      "id": "tacos",
+      "name": "Menú tacos",
+      "sub": "Al horno, gratinados, con patatas y bebida"
+    },
+    {
+      "id": "batidos",
+      "name": "Batidos",
+      "sub": "De pulpa de fruta natural"
+    },
+    {
+      "id": "bebidas",
+      "name": "Bebidas sin alcohol",
+      "sub": "Latas, agua y té"
+    }
+  ],
+  "items": [
+    {
+      "id": "g1",
+      "cat": "menutapas",
+      "ill": "arroz",
+      "name": "Arroz Crispy XL (con bebida)",
+      "desc": "Arroz con pollo y queso",
+      "pL": 14,
+      "pXL": null,
+      "tag": "🔥 Top",
+      "col": "",
+      "on": true
+    },
+    {
+      "id": "g2",
+      "cat": "menutapas",
+      "ill": "par",
+      "name": "Taco Parisino Pollo L",
+      "desc": "Bañado en queso + patatas y bebida",
+      "pL": 12,
+      "pXL": null,
+      "tag": "",
+      "col": "",
+      "on": true
+    },
+    {
+      "id": "g3",
+      "cat": "menutapas",
+      "ill": "par",
+      "name": "Taco Parisino de Carne L",
+      "desc": "Bañado en queso + patatas y bebida",
+      "pL": 12,
+      "pXL": null,
+      "tag": "",
+      "col": "",
+      "on": true
+    },
+    {
+      "id": "g4",
+      "cat": "menutapas",
+      "ill": "par",
+      "name": "Taco Parisino Mixto L",
+      "desc": "Bañado en queso + patatas y bebida",
+      "pL": 12,
+      "pXL": null,
+      "tag": "",
+      "col": "",
+      "on": true
+    },
+    {
+      "id": "g5",
+      "cat": "menutapas",
+      "ill": "par",
+      "name": "Taco Parisino de Finger L",
+      "desc": "Bañado en queso + patatas y bebida",
+      "pL": 12,
+      "pXL": null,
+      "tag": "",
+      "col": "",
+      "on": true
+    },
+    {
+      "id": "g6",
+      "cat": "tacos",
+      "ill": "arroz",
+      "name": "Arroz Crispy L (con bebida)",
+      "desc": "Arroz con pollo crujiente",
+      "pL": 12,
+      "pXL": null,
+      "tag": "",
+      "col": "",
+      "on": true
+    },
+    {
+      "id": "g7",
+      "cat": "tacos",
+      "ill": "horno",
+      "name": "Menú Taco de Pollo al Horno",
+      "desc": "Gratinado con queso fundido, con patatas y bebida",
+      "pL": 9,
+      "pXL": null,
+      "tag": "",
+      "col": "",
+      "on": true
+    },
+    {
+      "id": "g8",
+      "cat": "tacos",
+      "ill": "horno",
+      "name": "Menú Taco de Carne Picada al Horno",
+      "desc": "Ternera picada gratinada con queso fundido, con patatas y bebida",
+      "pL": 9,
+      "pXL": null,
+      "tag": "",
+      "col": "",
+      "on": true
+    },
+    {
+      "id": "g9",
+      "cat": "tacos",
+      "ill": "horno",
+      "name": "Menú Taco Mixto al Horno",
+      "desc": "Gratinado con queso fundido, con patatas y bebida",
+      "pL": 9,
+      "pXL": null,
+      "tag": "",
+      "col": "",
+      "on": true
+    },
+    {
+      "id": "g10",
+      "cat": "tacos",
+      "ill": "horno",
+      "name": "Menú Taco Nuggets al Horno",
+      "desc": "Gratinado con queso fundido, con patatas y bebida",
+      "pL": 9,
+      "pXL": null,
+      "tag": "",
+      "col": "",
+      "on": true
+    },
+    {
+      "id": "g11",
+      "cat": "tacos",
+      "ill": "horno",
+      "name": "Menú Taco de Fingers al Horno",
+      "desc": "Gratinado con queso fundido, con patatas y bebida",
+      "pL": 9,
+      "pXL": null,
+      "tag": "",
+      "col": "",
+      "on": true
+    },
+    {
+      "id": "g12",
+      "cat": "batidos",
+      "ill": "batido",
+      "name": "Batido de Za3Za3",
+      "desc": "",
+      "pL": 4.5,
+      "pXL": null,
+      "tag": "",
+      "col": "#e8c9a0",
+      "on": true
+    },
+    {
+      "id": "g13",
+      "cat": "batidos",
+      "ill": "batido",
+      "name": "Batido de Aguacate",
+      "desc": "Hecho con pulpa de aguacate",
+      "pL": 4,
+      "pXL": null,
+      "tag": "",
+      "col": "#9bc255",
+      "on": true
+    },
+    {
+      "id": "g14",
+      "cat": "batidos",
+      "ill": "batido",
+      "name": "Batido de Aguacate y Plátano",
+      "desc": "",
+      "pL": 4,
+      "pXL": null,
+      "tag": "",
+      "col": "#c9d56a",
+      "on": true
+    },
+    {
+      "id": "g15",
+      "cat": "batidos",
+      "ill": "batido",
+      "name": "Batido de Mango",
+      "desc": "Hecho con pulpa de mango",
+      "pL": 4,
+      "pXL": null,
+      "tag": "",
+      "col": "#ffb400",
+      "on": true
+    },
+    {
+      "id": "g16",
+      "cat": "batidos",
+      "ill": "batido",
+      "name": "Batido de Mango y Naranja",
+      "desc": "Hecho con pulpa de mango y naranja",
+      "pL": 4,
+      "pXL": null,
+      "tag": "",
+      "col": "#ff8a1f",
+      "on": true
+    },
+    {
+      "id": "g17",
+      "cat": "batidos",
+      "ill": "batido",
+      "name": "Batido de Panaché",
+      "desc": "",
+      "pL": 4,
+      "pXL": null,
+      "tag": "",
+      "col": "#d85a7f",
+      "on": true
+    },
+    {
+      "id": "g18",
+      "cat": "bebidas",
+      "ill": "lata",
+      "name": "Fanta Naranja",
+      "desc": "Lata 330 ml",
+      "pL": 1.5,
+      "pXL": null,
+      "tag": "",
+      "col": "#ff8a1f",
+      "on": true
+    },
+    {
+      "id": "g19",
+      "cat": "bebidas",
+      "ill": "lata",
+      "name": "Coca-Cola Sabor Original",
+      "desc": "Lata 330 ml",
+      "pL": 1.5,
+      "pXL": null,
+      "tag": "",
+      "col": "#d62828",
+      "on": true
+    },
+    {
+      "id": "g20",
+      "cat": "bebidas",
+      "ill": "lata",
+      "name": "Fanta Limón",
+      "desc": "Lata 330 ml",
+      "pL": 1.5,
+      "pXL": null,
+      "tag": "",
+      "col": "#f2d21b",
+      "on": true
+    },
+    {
+      "id": "g21",
+      "cat": "bebidas",
+      "ill": "lata",
+      "name": "Poms",
+      "desc": "330 ml",
+      "pL": 1.45,
+      "pXL": null,
+      "tag": "",
+      "col": "#e9a23b",
+      "on": true
+    },
+    {
+      "id": "g22",
+      "cat": "bebidas",
+      "ill": "lata",
+      "name": "Hawai",
+      "desc": "330 ml",
+      "pL": 1.45,
+      "pXL": null,
+      "tag": "",
+      "col": "#3aa7e0",
+      "on": true
+    },
+    {
+      "id": "g23",
+      "cat": "bebidas",
+      "ill": "lata",
+      "name": "Té Marroquí",
+      "desc": "250 ml",
+      "pL": 1.3,
+      "pXL": null,
+      "tag": "",
+      "col": "#7fae5a",
+      "on": true
+    },
+    {
+      "id": "g24",
+      "cat": "bebidas",
+      "ill": "lata",
+      "name": "Agua",
+      "desc": "500 ml",
+      "pL": 1.2,
+      "pXL": null,
+      "tag": "",
+      "col": "#5fb8e6",
+      "on": true
+    }
+  ]
+}

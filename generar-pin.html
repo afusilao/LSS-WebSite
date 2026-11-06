@@ -1,0 +1,9 @@
+<!DOCTYPE html><html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
+<title>Generar PIN</title>
+<body style="font:16px system-ui;background:#0b0b0a;color:#f6f2e7;max-width:520px;margin:10vh auto;padding:0 20px">
+<h1 style="color:#ffd100">Generar PIN de administrador</h1>
+<p>Escribe el PIN nuevo, copia el resultado y pégalo en <code>index.html</code>, en la línea <code>const PIN_SHA256="…"</code>.</p>
+<input id="p" type="text" placeholder="Nuevo PIN" style="width:100%;padding:12px;border-radius:10px;border:2px solid #444;background:#171614;color:#fff">
+<p><button onclick="g()" style="padding:12px 22px;border:0;border-radius:99px;background:#ffd100;font-weight:700;cursor:pointer">Generar</button></p>
+<textarea id="o" readonly rows="3" style="width:100%;padding:12px;border-radius:10px;border:2px solid #444;background:#171614;color:#ffd100"></textarea>
+<script>async function g(){const t=document.getElementById("p").value;if(!t)return;const b=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(t));document.getElementById("o").value=[...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join("")}</script></body></html>
